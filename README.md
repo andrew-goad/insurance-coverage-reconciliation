@@ -35,8 +35,9 @@ The dashboard below provides the final layer of the "No Cold Handoffs" philosoph
 
 ---
 
-## 🛡️ Integrity & Confidentiality Note
-**Data Privacy:** To maintain 100% enterprise confidentiality, specific macro variables are left blank and all datasets referenced are synthetic. The logic demonstrates the methodology used in federal oversight and "Too Big to Fail" banking environments.
+### 🔒 Integrity & Confidentiality Note
+**Data Privacy:** All data and visual outputs in this repository are generated from synthetic or anonymized datasets to protect proprietary information. This framework demonstrates the methodology applied to high-stakes enterprise and regulatory environments.
 
 ---
+
 **Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results.
