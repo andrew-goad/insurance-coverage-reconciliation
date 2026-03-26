@@ -40,4 +40,4 @@ The dashboard below provides the final layer of the "No Cold Handoffs" philosoph
 
 ---
 
-**Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results.
+**Philosophy:** **“No Cold Handoffs”**—engineering zero-defect, audit-ready results to ensure stakeholders internalize the underlying “why.”
