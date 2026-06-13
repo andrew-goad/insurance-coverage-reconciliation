@@ -1,0 +1,6 @@
+                                   Consolidated Coverage Date Ranges (overlap merge)                                    
+
+  Obs    ID  POLICY_START  POLICY_END  COVERAGE_START1  COVERAGE_START2  COVERAGE_START3  COVERAGE_END1  COVERAGE_END2  COVERAGE_END3
+    1  A101         23011       23375       .                2023-01-20       2023-10-01     .              2023-08-15     2023-12-20
+    2  B202         23011       23375       .                2023-02-01       .              .              2023-12-15     .
+

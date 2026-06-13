@@ -1,0 +1,7 @@
+                       Coverage Adjustment Factors (coverage_days_pct = % owed back to customer)                        
+
+  Obs    ID  COVERAGE_DAYS  RESPONSIBLE_DAYS  COVERAGE_DAYS_PCT  RESPONSIBLE_DAYS_PCT
+    1  A101            364                 0            100.00%                 0.00%
+    2  B202            212               152             58.24%                41.76%
+    3  C303              0               364              0.00%               100.00%
+

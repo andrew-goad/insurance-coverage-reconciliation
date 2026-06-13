@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_proof_consolidation_restack",
+  "source_file": "src/policy_coverage_reconciliation.sas",
+  "source_blob_sha": "1614e4681d7c4a303e71a90d21c4b8a9493e42b4",
+  "source_commit": "9fd3b4dd83aeb9466600656d7b7b1ae5257fba79",
+  "tier": "real_data",
+  "notes": "Metadata-driven restack: PROC SQL reads coverage_start#/coverage_end# names from dictionary.columns into :s1-:s9999 / :e1-:e9999, then a %do loop un-transposes each window using keep=(... rename=(...)) dataset options, verbatim from the coverage_date_ranges macro. Synthetic transposed coverage tables (3 windows, one account with all three, one with two). Demonstrates the dictionary.columns / dynamic-loop technique the README highlights."
+}

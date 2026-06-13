@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_coverage_overlap_merge",
+  "source_file": "src/policy_coverage_reconciliation.sas",
+  "source_blob_sha": "1614e4681d7c4a303e71a90d21c4b8a9493e42b4",
+  "source_commit": "9fd3b4dd83aeb9466600656d7b7b1ae5257fba79",
+  "tier": "real_data",
+  "notes": "Overlap-merge core (OBJ 1.1): PROC SORT + two PROC TRANSPOSE (prefix=) + the coverage_date_ranges macro's nested %do/%eval merge data step, verbatim from source. Synthetic work.intake of 5 proof-of-coverage windows across two accounts (overlapping + contiguous). lapse_threshold set to 30. Output is the consolidated coverage_date_ranges table."
+}

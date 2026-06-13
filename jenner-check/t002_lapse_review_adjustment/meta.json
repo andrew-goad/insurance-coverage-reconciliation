@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_lapse_review_adjustment",
+  "source_file": "src/policy_coverage_reconciliation.sas",
+  "source_blob_sha": "1614e4681d7c4a303e71a90d21c4b8a9493e42b4",
+  "source_commit": "9fd3b4dd83aeb9466600656d7b7b1ae5257fba79",
+  "tier": "real_data",
+  "notes": "Lapse review + adjustment factor (OBJ 1.2): verbatim five-case window comparison (initial_policy_days_adjustment), border-lapse forgiveness (lapse_start/lapse_end), and the verbatim final formulas (responsible_days = SUM(of lapse:, lapse_start, lapse_end); coverage_days; coverage_days_pct). Synthetic coverage_date_ranges_final of one consolidated window per account. Produces coverage_days_pct, the engine's headline % owed back."
+}

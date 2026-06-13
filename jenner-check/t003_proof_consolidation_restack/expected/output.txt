@@ -1,0 +1,17 @@
+                                              Restacked coverage window 1                                               
+
+  Obs    ID  POLICY_START  POLICY_END  COVERAGE_START  COVERAGE_END
+    1  A101    2023-01-01  2023-12-31      2023-01-20    2023-04-30
+    2  B202    2023-01-01  2023-12-31      2023-02-01    2023-06-30
+
+                                              Restacked coverage window 2                                               
+
+  Obs    ID  POLICY_START  POLICY_END  COVERAGE_START  COVERAGE_END
+    1  A101    2023-01-01  2023-12-31      2023-04-20    2023-08-15
+    2  B202    2023-01-01  2023-12-31      2023-06-15    2023-12-15
+
+                                              Restacked coverage window 3                                               
+
+  Obs    ID  POLICY_START  POLICY_END  COVERAGE_START  COVERAGE_END
+    1  A101    2023-01-01  2023-12-31      2023-10-01    2023-12-20
+

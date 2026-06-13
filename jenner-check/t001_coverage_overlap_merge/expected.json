@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-13T17:47:18.792258+00:00",
+  "_captured_run_id": "r_019ec2155f6f7e00a2c0e6b4b6637ce9",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote intake (5 rows, 5 columns).",
+    "Macro variable NVAR = 3",
+    "Wrote coverage_date_ranges (2 rows, 9 columns).",
+    "PROC PRINT completed: 2 observations printed, 9 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
