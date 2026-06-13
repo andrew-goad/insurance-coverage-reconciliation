@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-13T17:47:18.792258+00:00",
+  "_captured_run_id": "r_019ec216a1cb79f2bf78e62a1afec562",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote coverage_date_ranges_final (3 rows, 5 columns).",
+    "Wrote initial_policy_days_adjustment (3 rows, 9 columns).",
+    "Wrote coverage_adjustment_final (3 rows, 13 columns).",
+    "PROC PRINT completed: 3 observations printed, 5 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
